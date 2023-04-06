@@ -3,4 +3,6 @@ The Paper Rock Scissor game is a classic game that has been enjoyed by generatio
 
 The game has a basic user interface that allows the user to choose their option and displays the computer choice. The choice of computer is random each time.
 
+You can see live demo at : https://bonheur-ango.github.io/Rock-paper-scissor-with-javascript/
+
 ![demo](./assets/demo.png)
